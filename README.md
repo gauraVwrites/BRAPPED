@@ -51,6 +51,10 @@ Both of these videos contains my voiceover, I've tried to implement same logic l
 **API calls:** [**Part1**](https://youtu.be/Cy8DPKAO3U4?si=cnbi0Q1dwGDiZgv5) [**Part2**](https://youtu.be/JoBmyjuOTDk?si=ACpG0YL6Enny5y6h)<br>
 **Dashboard Presentation and DAX logic(for visual building):** [**Both Parts Combined**](https://youtu.be/Oegr4tQ88cA?si=J9zDIAunkx7KLiCp)<br>
 #
+**My Added Feature**<br>
+I think I've solved a huge problem over here, see you can listen to an artist in two forms the first one, in which the artist you listened to was main artist, and in the second part, you can listen to an aritst if it was a feature artist. The official and real version of Spotify Wrapped doesn't bothers about the second type.<br>
+To tackle this I made sure that I've got enough data to have my own feature that will let user decide if they want to stats of an Artist as a Main artist or Feature artist, please head over to my videos and articles for more clarity over this topic.<br>
+#
 **Challenges**<br>
 ![](https://github.com/gauraVwrites/BRAPPED/blob/main/images/dataCluster.png)<br>
 - To create a more dynamic and interactive dashboard, I was short on overall data.
