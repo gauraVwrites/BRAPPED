@@ -1,8 +1,6 @@
 # BRAPPED
 ## The Better and Upgraded Version of Spotify Wrapped<br>
 #
-### **Introduction**
-#
 **Purpose**
 - To have more clarity than the original version of Spotify Wrapped.
 - To allow users to interact with it.
@@ -28,7 +26,8 @@
 - Descriptive Analytics
 - Diaganostic Analytics
 #
-**WorkFlow**
+**WorkFlow**<br>
+![](https://github.com/gauraVwrites/BRAPPED/blob/main/images/introImage.png)<br>
 To start working on this dataset and reach my end goal of a fully functioning and interactive dashboard, I need to made sure that I've all the data that I need for this.<br>
 Therefore I divided this project into several parts.
 1. *Requirements Gathering*:<br>
@@ -47,3 +46,24 @@ You can refer to these articles to get more deep understanding of it.<br>
 This part is regading creating features for our dashboards, that will make it an advanced and more interactive version of Spotify's Original Wrapped.<br>
 You can refer to my article regarding this.<br>
 [**Brapped: Dashboarding and DAX logic (final part with project video)**](https://medium.com/p/7fdd1f6c8894)<br>
+I've also created some videos regarding these topics:<br>
+**API calls:** [**Part1**](https://youtu.be/Cy8DPKAO3U4?si=cnbi0Q1dwGDiZgv5) [**Part2**](https://youtu.be/JoBmyjuOTDk?si=ACpG0YL6Enny5y6h)<br>
+**Dashboard Presentation and DAX logic(for visual building):** [**Both Parts Combined**](https://youtu.be/Oegr4tQ88cA?si=J9zDIAunkx7KLiCp)<br>
+#
+**Challenges**<br>
+![](https://github.com/gauraVwrites/BRAPPED/blob/main/images/dataCluster.png)<br>
+- To create a more dynamic and interactive dashboard, I was short on overall data.
+- The existing data contained errors that were hard to find(refer to articles, if you want to know more).
+- Initial data model was heavy and for some reasons relationships were of type Many-To-Many instead of One-To-Many.
+- The data source was in complex JSON object, that was pretty hard to understand, and much more at granular level.
+#
+**Solutions**<br>
+![](https://github.com/gauraVwrites/BRAPPED/blob/main/images/cleanDataModel.png)<br>
+There's no definite solution to the problems I encountered in this project. But inshort these are some solutions I came up with:<br>
+- Used Spotify's Web API, to get more data.
+- Used advanced logics to find the errors in Pandas.
+- Used SET logic to create primary keys in my dataframes.
+- Took help from JSON beautifiers and API documentaion, to make meaning of data.
+#
+This is the end of this project refer to this file for understanding the data modelling in Python using pandas. [MyJupyterNotebook](https://github.com/gauraVwrites/BRAPPED/blob/main/SpotifyDataModelling.ipynb), for understanding the logic behind API calls refer to this [PythonFile](https://github.com/gauraVwrites/BRAPPED/blob/main/main.py)<br>
+Thanks for sticking to the very end, see you soon with a more unique project just like this one.
