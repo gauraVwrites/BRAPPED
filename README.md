@@ -47,6 +47,7 @@ This part is regading creating features for our dashboards, that will make it an
 You can refer to my article regarding this.<br>
 [**Brapped: Dashboarding and DAX logic (final part with project video)**](https://medium.com/p/7fdd1f6c8894)<br>
 I've also created some videos regarding these topics:<br>
+Both of these videos contains my voiceover, I've tried to implement same logic live(please plugin your headphones, for more clear voice, and sped up video as per your comfort).<br>
 **API calls:** [**Part1**](https://youtu.be/Cy8DPKAO3U4?si=cnbi0Q1dwGDiZgv5) [**Part2**](https://youtu.be/JoBmyjuOTDk?si=ACpG0YL6Enny5y6h)<br>
 **Dashboard Presentation and DAX logic(for visual building):** [**Both Parts Combined**](https://youtu.be/Oegr4tQ88cA?si=J9zDIAunkx7KLiCp)<br>
 #
