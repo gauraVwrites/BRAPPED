@@ -28,7 +28,7 @@
 #
 **WorkFlow**<br>
 ![](https://github.com/gauraVwrites/BRAPPED/blob/main/images/introImage.png)<br>
-To start working on this dataset and reach my end goal of a fully functioning and interactive dashboard, I need to made sure that I've all the data that I need for this.<br>
+To start working on this dataset and reach my end goal of a fully functioning and interactive dashboard, I made sure that I've all the data that I need for this.<br>
 Therefore I divided this project into several parts.
 1. *Requirements Gathering*:<br>
 In this part I've set my priorities regarding all the data points that I need, and then made and executed plans to achieve them.<br>
@@ -71,4 +71,5 @@ There's no definite solution to the problems I encountered in this project. But 
 - Took help from JSON beautifiers and API documentaion, to make meaning of data.
 #
 This is the end of this project refer to this file for understanding the data modelling in Python using pandas. [MyJupyterNotebook](https://github.com/gauraVwrites/BRAPPED/blob/main/SpotifyDataModelling.ipynb), for understanding the logic behind API calls refer to this [PythonFile](https://github.com/gauraVwrites/BRAPPED/blob/main/main.py)<br>
+If you want to have a look over dashboard you can head over to this [PowerBI File](https://github.com/gauraVwrites/BRAPPED/blob/main/TEST%20FEATURE%20VS%20MAIN.pbix)<br>
 Thanks for sticking to the very end, see you soon with a more unique project just like this one.
